@@ -1,3 +1,5 @@
 [user]
 	email = noreply@workshop.com
 	name = Workshop User
+[credential]
+        helper = store
